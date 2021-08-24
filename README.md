@@ -1,3 +1,3 @@
 # json-serv-test
 
-Json file for testing some things
+Fake backend mocke db for testing
